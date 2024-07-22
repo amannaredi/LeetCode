@@ -9,7 +9,8 @@ class Solution:
         # print(j)
         # return j
         x = Counter(nums)
-        arr = [k for k in x.keys()]
-        for i in range(len(arr)):
-            nums[i] = arr[i]
+        nums[:len(x)] = [k for k in x.keys()]
+        # arr = [k for k in x.keys()]
+        # for i in range(len(arr)):
+        #     nums[i] = arr[i]
         return len(x)
