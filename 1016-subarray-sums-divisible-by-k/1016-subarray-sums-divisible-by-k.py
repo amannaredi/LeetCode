@@ -12,7 +12,6 @@ class Solution:
 
             res += prefMap.get(mod,0)
             
-            # prefMap[currSum] = prefMap.get(currSum,0) + 1
             prefMap[mod] = prefMap.get(mod,0) + 1
            
         return res 
