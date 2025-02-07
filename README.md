@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/amannaredi/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/amannaredi/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/amannaredi/LeetCode/tree/master/1161-project-employees-i) |
+| [1258-article-views-i](https://github.com/amannaredi/LeetCode/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/amannaredi/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/amannaredi/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/amannaredi/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
