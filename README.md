@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amannaredi/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/amannaredi/LeetCode/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amannaredi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amannaredi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
@@ -107,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amannaredi/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amannaredi/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amannaredi/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
