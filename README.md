@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amannaredi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amannaredi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amannaredi/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amannaredi/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/amannaredi/LeetCode/tree/master/0075-sort-colors) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/amannaredi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/amannaredi/LeetCode/tree/master/0200-number-of-islands) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amannaredi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/amannaredi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
 | ------- |
