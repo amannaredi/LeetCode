@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amannaredi/LeetCode/tree/master/0075-sort-colors) |
+| [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amannaredi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amannaredi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amannaredi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amannaredi/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/amannaredi/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amannaredi/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/amannaredi/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amannaredi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amannaredi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/amannaredi/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 ## String Matching
 |  |
 | ------- |
@@ -95,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/amannaredi/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/amannaredi/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/amannaredi/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
