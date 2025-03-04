@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amannaredi/LeetCode/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/amannaredi/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/amannaredi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amannaredi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amannaredi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amannaredi/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/amannaredi/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/amannaredi/LeetCode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Dynamic Programming
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/amannaredi/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/amannaredi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/amannaredi/LeetCode/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amannaredi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amannaredi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
@@ -117,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/amannaredi/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
@@ -147,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amannaredi/LeetCode/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
