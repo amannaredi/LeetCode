@@ -2,12 +2,11 @@ class Solution:
     def maxSum(self, grid: List[List[int]], limits: List[int], k: int) -> int:
         maxVals = []
         for i in range(len(grid)):
-            sortedLs = sorted(grid[i])[::-1]
+            sortedLs = sorted(grid[i], reverse = True)
             limit = limits[i]
-            for val in sortedLs[:limit]:
-                maxVals.append(val)
+            maxVals.extend(sortedLs[:limit])
 
-        sortedMaxVals = sorted(maxVals)[::-1]
+        sortedMaxVals = sorted(maxVals, reverse = True)
         maxSum = sum(sortedMaxVals[:k])
 
         return maxSum
