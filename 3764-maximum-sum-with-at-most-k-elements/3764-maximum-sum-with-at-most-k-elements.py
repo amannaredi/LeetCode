@@ -4,8 +4,6 @@ class Solution:
         for i in range(len(grid)):
             sortedLs = sorted(grid[i])[::-1]
             limit = limits[i]
-            # print(limit)
-            # print(sortedLs[:limit])
             for val in sortedLs[:limit]:
                 maxVals.append(val)
 
