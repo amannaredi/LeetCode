@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/amannaredi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/amannaredi/LeetCode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/amannaredi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amannaredi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/amannaredi/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amannaredi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amannaredi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amannaredi/LeetCode/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/amannaredi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/amannaredi/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/amannaredi/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amannaredi/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/amannaredi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/amannaredi/LeetCode/tree/master/0778-reorganize-string) |
 ## Linked List
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/amannaredi/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/amannaredi/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
