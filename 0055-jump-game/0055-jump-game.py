@@ -6,8 +6,7 @@ class Solution:
             if run < 0:
                 return False
 
-            elif num > run:
-                run = max(run, num)
+            run = max(run, num)
             
             run -=1
         return True
