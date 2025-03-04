@@ -7,7 +7,7 @@ class Solution:
                 return False
 
             elif num > run:
-                run = num
+                run = max(run, num)
             
             run -=1
         return True
