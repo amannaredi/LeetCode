@@ -1,5 +1,6 @@
 class Solution:
     def hasSameDigits(self, s: str) -> bool:
+        
         def condition(s):
             return len(set(s)) == 1
 
